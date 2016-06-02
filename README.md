@@ -1,1 +1,3 @@
 # DJ-Masters-Thesis
+
+Just helping out a friend who is a bio major working on her master thesis. It appears that the statistical analysis software she was told to use is completely outdated and impossible to understand(especially if you aren't a statistitian). I think my way will be a better way to look at her data in everyway that you can imagine, assuming there isn't some weird academic thing making her stick to the status quo.
